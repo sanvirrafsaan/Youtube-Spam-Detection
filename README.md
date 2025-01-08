@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 # Youtube-Spam-Detection
+=======
+# STA314
+This repository contains the final project of STA314, the Statistical Methods in Machine Learning - I, from University of Toronto. 
+>>>>>>> c4fa49f (Initial commit)
