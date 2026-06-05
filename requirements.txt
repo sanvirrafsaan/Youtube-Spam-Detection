@@ -1,0 +1,17 @@
+# Core ML stack — needed for Scratchpad/cleanedClassifier.ipynb + Scripts/
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+scipy>=1.11
+matplotlib>=3.7
+umap-learn>=0.5
+
+# Jupyter
+jupyter>=1.0
+ipykernel>=6.25
+
+# Optional notebooks (Report/report.ipynb, BOW.ipynb, etc.)
+seaborn>=0.13
+tqdm>=4.66
+nltk>=3.8
+wordcloud>=1.9

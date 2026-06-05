@@ -1,0 +1,5 @@
+# Only needed for Report/report.ipynb Word2Vec section (not Python 3.14 compatible yet)
+gensim>=4.3
+
+# Only needed for Scratchpad/classifier2-shiva.ipynb text preprocessing
+spacy>=3.7
